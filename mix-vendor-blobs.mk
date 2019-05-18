@@ -1007,4 +1007,12 @@ PRODUCT_COPY_FILES += \
     vendor/doogee/mix/bin/wpa_supplicant:system/bin/wpa_supplicant \
     vendor/doogee/mix/bin/wpa_cli:system/bin/wpa_cli \
     vendor/doogee/mix/bin/vold:system/bin/vold
+    vendor/doogee/mix/bin/audioserver:system/bin/audioserver
+    vendor/doogee/mix/bin/cameraserver:system/bin/cameraserver
+    vendor/doogee/mix/bin/mediaserver:system/bin/mediaserver
+    vendor/doogee/mix/bin/mediadrmserver:system/bin/mediadrmserver
+    vendor/doogee/mix/bin/mediacodec:system/bin/mediacodec
+    vendor/doogee/mix/bin/mediaextractor:system/bin/mediaextractor
+
+
 
