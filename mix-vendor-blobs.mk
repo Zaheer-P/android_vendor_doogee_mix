@@ -1007,12 +1007,30 @@ PRODUCT_COPY_FILES += \
     vendor/doogee/mix/bin/wpa_supplicant:system/bin/wpa_supplicant \
     vendor/doogee/mix/bin/wpa_cli:system/bin/wpa_cli \
     vendor/doogee/mix/bin/vold:system/bin/vold
-    vendor/doogee/mix/bin/audioserver:system/bin/audioserver
-    vendor/doogee/mix/bin/cameraserver:system/bin/cameraserver
-    vendor/doogee/mix/bin/mediaserver:system/bin/mediaserver
-    vendor/doogee/mix/bin/mediadrmserver:system/bin/mediadrmserver
-    vendor/doogee/mix/bin/mediacodec:system/bin/mediacodec
-    vendor/doogee/mix/bin/mediaextractor:system/bin/mediaextractor
+    vendor/doogee/mix/bin/audioserver:system/bin/audioserver \
+    vendor/doogee/mix/bin/cameraserver:system/bin/cameraserver \
+    vendor/doogee/mix/bin/mediaserver:system/bin/mediaserver \
+    vendor/doogee/mix/bin/mediadrmserver:system/bin/mediadrmserver \
+    vendor/doogee/mix/bin/mediacodec:system/bin/mediacodec \
+    vendor/doogee/mix/bin/mediaextractor:system/bin/mediaextractor \
+    vendor/lib/hw/memtrack.mt6757.so:system/lib/hw/memtrack.mt6757.so \
+    vendor/lib/hw/audio.primary.mt6757.so:system/lib/hw/audio.primary.mt6757.so \
+    vendor/lib/hw/hwcomposer.mt6757.so:system/lib/hw/hwcomposer.mt6757.so \
+    vendor/lib/hw/sensors.mt6757.so:system/lib/hw/sensors.mt6757.so \
+    vendor/lib/hw/lights.mt6757.so:system/lib/hw/lights.mt6757.so \
+    vendor/lib/hw/gralloc.mt6757.so:system/lib/hw/gralloc.mt6757.so \
+    vendor/lib/hw/audio.usb.mt6757.so:system/lib/hw/audio.usb.mt6757.so \
+    vendor/lib/hw/gps.mt6757.so:system/lib/hw/gps.mt6757.so \
+    vendor/lib/hw/camera.mt6757.so:system/lib/hw/camera.mt6757.so \
+    vendor/lib/hw/memtrack.mt6757.so:system/lib64/hw/memtrack.mt6757.so \
+    vendor/lib/hw/audio.primary.mt6757.so:system/lib64/hw/audio.primary.mt6757.so \
+    vendor/lib/hw/hwcomposer.mt6757.so:system/lib64/hw/hwcomposer.mt6757.so \
+    vendor/lib/hw/sensors.mt6757.so:system/lib64/hw/sensors.mt6757.so \
+    vendor/lib/hw/lights.mt6757.so:system/lib64/hw/lights.mt6757.so \
+    vendor/lib/hw/gralloc.mt6757.so:system/lib64/hw/gralloc.mt6757.so \
+    vendor/lib/hw/audio.usb.mt6757.so:system/lib64/hw/audio.usb.mt6757.so \
+    vendor/lib/hw/gps.mt6757.so:system/lib64/hw/gps.mt6757.so \
+    vendor/lib/hw/camera.mt6757.so:system/lib64/hw/camera.mt6757.so
 
 
 
