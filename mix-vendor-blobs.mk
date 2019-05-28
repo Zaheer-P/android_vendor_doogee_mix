@@ -1009,10 +1009,6 @@ PRODUCT_COPY_FILES += \
     vendor/doogee/mix/bin/vold:system/bin/vold
     vendor/doogee/mix/bin/audioserver:system/bin/audioserver \
     vendor/doogee/mix/bin/cameraserver:system/bin/cameraserver \
-    vendor/doogee/mix/bin/mediaserver:system/bin/mediaserver \
-    vendor/doogee/mix/bin/mediadrmserver:system/bin/mediadrmserver \
-    vendor/doogee/mix/bin/mediacodec:system/bin/mediacodec \
-    vendor/doogee/mix/bin/mediaextractor:system/bin/mediaextractor \
     vendor/lib/hw/memtrack.mt6757.so:system/lib/hw/memtrack.mt6757.so \
     vendor/lib/hw/audio.primary.mt6757.so:system/lib/hw/audio.primary.mt6757.so \
     vendor/lib/hw/hwcomposer.mt6757.so:system/lib/hw/hwcomposer.mt6757.so \
