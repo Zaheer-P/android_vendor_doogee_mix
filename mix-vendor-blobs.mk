@@ -1003,12 +1003,8 @@ PRODUCT_COPY_FILES += \
     vendor/doogee/mix/etc/media_codecs_performance.xml:system/etc/media_codecs_performance.xml \
     vendor/doogee/mix/bin/pppd_dt:system/bin/pppd_dt \
     vendor/doogee/mix/bin/fingerprintd:system/bin/fingerprintd \
-    vendor/doogee/mix/bin/sgdisk:system/bin/sgdisk \
     vendor/doogee/mix/bin/wpa_supplicant:system/bin/wpa_supplicant \
     vendor/doogee/mix/bin/wpa_cli:system/bin/wpa_cli \
-    vendor/doogee/mix/bin/vold:system/bin/vold
-    vendor/doogee/mix/bin/audioserver:system/bin/audioserver \
-    vendor/doogee/mix/bin/cameraserver:system/bin/cameraserver \
     vendor/lib/hw/memtrack.mt6757.so:system/lib/hw/memtrack.mt6757.so \
     vendor/lib/hw/audio.primary.mt6757.so:system/lib/hw/audio.primary.mt6757.so \
     vendor/lib/hw/hwcomposer.mt6757.so:system/lib/hw/hwcomposer.mt6757.so \
