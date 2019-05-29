@@ -1024,15 +1024,15 @@ PRODUCT_COPY_FILES += \
     vendor/lib64/hw/gps.mt6757.so:system/lib64/hw/gps.mt6757.so \
     vendor/lib64/hw/camera.mt6757.so:system/lib64/hw/camera.mt6757.so \
     vendor/lib/libcam.halsensor.so:system/lib/libcam.halsensor.so \
-    vendor/lib/libcamalgo.so:system/lib/libcamalgo.so
-    vendor/lib/libcameracustom.so:system/lib/libcameracustom.so
+    vendor/lib/libcamalgo.so:system/lib/libcamalgo.so \
+    vendor/lib/libcameracustom.so:system/lib/libcameracustom.so \
     vendor/lib64/libcam.halsensor.so:system/lib64/libcam.halsensor.so \
-    vendor/lib64/libcamalgo.so:system/lib64/libcamalgo.so
-    vendor/lib64/libcameracustom.so:system/lib64/libcameracustom.so
-    vendor/lib64/libfprint-x64.so:system/lib64/libfprint-x64.so
-    vendor/lib64/libgybeauty.so:system/lib64/libgybeauty.so
-    vendor/lib64/libteec.so:system/lib64/libteec.so
-    vendor/lib/libteec.so:system/lib/libteec.so
+    vendor/lib64/libcamalgo.so:system/lib64/libcamalgo.so \
+    vendor/lib64/libcameracustom.so:system/lib64/libcameracustom.so \
+    vendor/lib64/libfprint-x64.so:system/lib64/libfprint-x64.so \
+    vendor/lib64/libgybeauty.so:system/lib64/libgybeauty.so \
+    vendor/lib64/libteec.so:system/lib64/libteec.so \
+    vendor/lib/libteec.so:system/lib/libteec.so 
 
 
 
