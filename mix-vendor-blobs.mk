@@ -1005,29 +1005,11 @@ PRODUCT_COPY_FILES += \
     vendor/doogee/mix/bin/fingerprintd:system/bin/fingerprintd \
     vendor/doogee/mix/bin/wpa_supplicant:system/bin/wpa_supplicant \
     vendor/doogee/mix/bin/wpa_cli:system/bin/wpa_cli \
-    vendor/doogee/mix/lib/hw/memtrack.mt6757.so:system/lib/hw/memtrack.mt6757.so \
-    vendor/doogee/mix/lib/hw/audio.primary.mt6757.so:system/lib/hw/audio.primary.mt6757.so \
-    vendor/doogee/mixlib/hw/hwcomposer.mt6757.so:system/lib/hw/hwcomposer.mt6757.so \
-    vendor/doogee/mix/lib/hw/sensors.mt6757.so:system/lib/hw/sensors.mt6757.so \
-    vendor/doogee/mix/lib/hw/lights.mt6757.so:system/lib/hw/lights.mt6757.so \
-    vendor/doogee/mix/lib/hw/gralloc.mt6757.so:system/lib/hw/gralloc.mt6757.so \
-    vendor/doogee/mix/lib/hw/audio.usb.mt6757.so:system/lib/hw/audio.usb.mt6757.so \
-    vendor/doogee/mix/lib/hw/gps.mt6757.so:system/lib/hw/gps.mt6757.so \
-    vendor/doogee/mix/lib/hw/camera.mt6757.so:system/lib/hw/camera.mt6757.so \
-    vendor/doogee/mix/lib64/hw/memtrack.mt6757.so:system/lib64/hw/memtrack.mt6757.so \
-    vendor/doogee/mix/lib64/hw/audio.primary.mt6757.so:system/lib64/hw/audio.primary.mt6757.so \
-    vendor/doogee/mix/lib64/hw/hwcomposer.mt6757.so:system/lib64/hw/hwcomposer.mt6757.so \
-    vendor/doogee/mix/lib64/hw/sensors.mt6757.so:system/lib64/hw/sensors.mt6757.so \
-    vendor/doogee/mix/lib64/hw/lights.mt6757.so:system/lib64/hw/lights.mt6757.so \
-    vendor/doogee/mix/lib64/hw/gralloc.mt6757.so:system/lib64/hw/gralloc.mt6757.so \
-    vendor/doogee/mix/lib64/hw/audio.usb.mt6757.so:system/lib64/hw/audio.usb.mt6757.so \
-    vendor/doogee/mix/lib64/hw/gps.mt6757.so:system/lib64/hw/gps.mt6757.so \
-    vendor/doogee/mix/lib64/hw/camera.mt6757.so:system/lib64/hw/camera.mt6757.so \
     vendor/doogee/mix/lib/libcam.halsensor.so:system/lib/libcam.halsensor.so \
     vendor/doogee/mix/lib/libcamalgo.so:system/lib/libcamalgo.so \
     vendor/doogee/mix/lib/libcameracustom.so:system/lib/libcameracustom.so \
     vendor/doogee/mix/lib64/libcam.halsensor.so:system/lib64/libcam.halsensor.so \
-    vendor/doogee/mix /lib64/libcamalgo.so:system/lib64/libcamalgo.so \
+    vendor/doogee/mix/lib64/libcamalgo.so:system/lib64/libcamalgo.so \
     vendor/doogee/mix/lib64/libcameracustom.so:system/lib64/libcameracustom.so \
     vendor/doogee/mix/lib64/libfprint-x64.so:system/lib64/libfprint-x64.so \
     vendor/doogee/mix/lib64/libgybeauty.so:system/lib64/libgybeauty.so \
