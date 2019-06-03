@@ -1009,7 +1009,6 @@ PRODUCT_COPY_FILES += \
     vendor/doogee/mix/lib/libcamalgo.so:system/lib/libcamalgo.so \
     vendor/doogee/mix/lib/libcameracustom.so:system/lib/libcameracustom.so \
     vendor/doogee/mix/lib64/libcam.halsensor.so:system/lib64/libcam.halsensor.so \
-    vendor/doogee/mix/lib64/libcamalgo.so:system/lib64/libcamalgo.so \
     vendor/doogee/mix/lib64/libcameracustom.so:system/lib64/libcameracustom.so \
     vendor/doogee/mix/lib64/libfprint-x64.so:system/lib64/libfprint-x64.so \
     vendor/doogee/mix/lib64/libgybeauty.so:system/lib64/libgybeauty.so \
