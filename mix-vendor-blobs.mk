@@ -1006,7 +1006,6 @@ PRODUCT_COPY_FILES += \
     vendor/doogee/mix/bin/wpa_supplicant:system/bin/wpa_supplicant \
     vendor/doogee/mix/bin/wpa_cli:system/bin/wpa_cli \
     vendor/doogee/mix/lib/libcam.halsensor.so:system/lib/libcam.halsensor.so \
-    vendor/doogee/mix/lib/libcamalgo.so:system/lib/libcamalgo.so \
     vendor/doogee/mix/lib/libcameracustom.so:system/lib/libcameracustom.so \
     vendor/doogee/mix/lib64/libcam.halsensor.so:system/lib64/libcam.halsensor.so \
     vendor/doogee/mix/lib64/libcameracustom.so:system/lib64/libcameracustom.so \
