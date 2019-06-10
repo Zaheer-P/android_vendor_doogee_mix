@@ -1012,8 +1012,9 @@ PRODUCT_COPY_FILES += \
     vendor/doogee/mix/lib64/libfprint-x64.so:system/lib64/libfprint-x64.so \
     vendor/doogee/mix/lib64/libgybeauty.so:system/lib64/libgybeauty.so \
     vendor/doogee/mix/lib64/libteec.so:system/lib64/libteec.so \
-    vendor/doogee/mix/lib/libteec.so:system/lib/libteec.so 
-
+    vendor/doogee/mix/lib/libteec.so:system/lib/libteec.so \
+    vendor/doogee/mix/lib64/hw/keystore.mt6757.so:system/lib64/hw/keystore.mt6757.so
+    
 
 
  
