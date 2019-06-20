@@ -1013,8 +1013,34 @@ PRODUCT_COPY_FILES += \
     vendor/doogee/mix/lib64/libgybeauty.so:system/lib64/libgybeauty.so \
     vendor/doogee/mix/lib64/libteec.so:system/lib64/libteec.so \
     vendor/doogee/mix/lib/libteec.so:system/lib/libteec.so \
-    vendor/doogee/mix/lib64/hw/keystore.mt6757.so:system/lib64/hw/keystore.mt6757.so
-    
+    vendor/doogee/mix/lib/hw/audio.a2dp.default.so:system/lib/hw/audio.a2dp.default.so
+    vendor/doogee/mix/lib/hw/audio.primary.default.so:system/lib/hw/audio.primary.default.so
+    vendor/doogee/mix/lib/hw/audio.primary.mt6757.so:system/lib/hw/audio.primary.mt6757.so \
+    vendor/doogee/mix/lib/hw/audio.r_submix.default.so:system/lib/hw/audio.r_submix.default.so \
+    vendor/doogee/mix/lib/hw/audio.usb.default.so:system/lib/hw/audio.usb.default.so \
+    vendor/doogee/mix/lib/hw/audio.usb.mt6757.so:system/lib/hw/audio.usb.mt6757.so \
+    vendor/doogee/mix/lib/hw/audio_policy.default.so:system/lib/hw/audio_policy.default.so \
+    vendor/doogee/mix/lib/hw/audio_policy.stub.so:system/lib/hw/audio_policy.stub.so \
+    vendor/doogee/mix/lib/hw/bluetooth.default.so:system/lib/hw/bluetooth.default.so \
+    vendor/doogee/mix/lib/hw/camera.mt6757.so:system/lib/hw/camera.mt6757.so \
+    vendor/doogee/mix/lib/hw/gps.mt6757.so:system/lib/hw/gps.mt6757.so \
+    vendor/doogee/mix/lib/hw/gatekeeper.trustkernel.so:system/lib/hw/gatekeeper.trustkernel.so \
+    vendor/doogee/mix/lib/hw/gatekeeper.hct6757_66_n.so:system/lib/hw/gatekeeper.hct6757_66_n.so \
+    vendor/doogee/mix/lib/hw/gralloc.default.so:system/lib/hw/gralloc.default.so \
+    vendor/doogee/mix/lib/hw/gralloc.mt6757.so:system/lib/hw/gralloc.mt6757.so \
+    vendor/doogee/mix/lib/hw/hwcomposer.mt6757.so:system/lib/hw/hwcomposer.mt6757.so \
+    vendor/doogee/mix/lib/hw/keystore.default.so:system/lib/hw/keystore.default.so \
+    vendor/doogee/mix/lib/hw/keystore.hct6757_66_n.so:system/lib/hw/keystore.hct6757_66_n.so \
+    vendor/doogee/mix/lib/hw/keystore.mt6757.so:system/lib/hw/keystore.mt6757.so \
+    vendor/doogee/mix/lib/hw/keystore.trustkernel.so:system/lib/hw/keystore.trustkernel.so \
+    vendor/doogee/mix/lib/hw/keystore.v1.hct6757_66_n.so:system/lib/hw/keystore.v1.hct6757_66_n.so \
+    vendor/doogee/mix/lib/hw/keystore.v1.mt6757.so:system/lib/hw/keystore.v1.mt6757.so \
+    vendor/doogee/mix/lib/hw/local_time.default.so:system/lib/hw/local_time.default.so \
+    vendor/doogee/mix/lib/hw/keystore.v1.trustkernel.so:system/lib/hw/keystore.v1.trustkernel.so \
+    vendor/doogee/mix/lib/hw/lights.mt6757.so:system/lib/hw/lights.mt6757.so \
+    vendor/doogee/mix/lib/hw/memtrack.mt6757.so:system/lib/hw/memtrack.mt6757.so \
+    vendor/doogee/mix/lib/hw/power.default.so:system/lib/hw/power.default.so \
+    vendor/doogee/mix/lib/hw/sensors.mt6757.so:system/lib/hw/sensors.mt6757.so \
 
 
  
