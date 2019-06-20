@@ -1013,8 +1013,8 @@ PRODUCT_COPY_FILES += \
     vendor/doogee/mix/lib64/libgybeauty.so:system/lib64/libgybeauty.so \
     vendor/doogee/mix/lib64/libteec.so:system/lib64/libteec.so \
     vendor/doogee/mix/lib/libteec.so:system/lib/libteec.so \
-    vendor/doogee/mix/lib/hw/audio.a2dp.default.so:system/lib/hw/audio.a2dp.default.so
-    vendor/doogee/mix/lib/hw/audio.primary.default.so:system/lib/hw/audio.primary.default.so
+    vendor/doogee/mix/lib/hw/audio.a2dp.default.so:system/lib/hw/audio.a2dp.default.so \
+    vendor/doogee/mix/lib/hw/audio.primary.default.so:system/lib/hw/audio.primary.default.so \
     vendor/doogee/mix/lib/hw/audio.primary.mt6757.so:system/lib/hw/audio.primary.mt6757.so \
     vendor/doogee/mix/lib/hw/audio.r_submix.default.so:system/lib/hw/audio.r_submix.default.so \
     vendor/doogee/mix/lib/hw/audio.usb.default.so:system/lib/hw/audio.usb.default.so \
@@ -1040,7 +1040,7 @@ PRODUCT_COPY_FILES += \
     vendor/doogee/mix/lib/hw/lights.mt6757.so:system/lib/hw/lights.mt6757.so \
     vendor/doogee/mix/lib/hw/memtrack.mt6757.so:system/lib/hw/memtrack.mt6757.so \
     vendor/doogee/mix/lib/hw/power.default.so:system/lib/hw/power.default.so \
-    vendor/doogee/mix/lib/hw/sensors.mt6757.so:system/lib/hw/sensors.mt6757.so \
+    vendor/doogee/mix/lib/hw/sensors.mt6757.so:system/lib/hw/sensors.mt6757.so
 
 
  
